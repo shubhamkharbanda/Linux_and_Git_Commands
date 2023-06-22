@@ -1,0 +1,27 @@
+Important linux commands:
+
+s: Lists files and directories in the current directory.
+cd <directory>: Changes the current directory.
+pwd: Prints the current working directory.
+mkdir <directory>: Creates a new directory.
+rm <file>: Removes a file.
+rmdir <directory>: Removes an empty directory.
+cp <source> <destination>: Copies files or directories.
+mv <source> <destination>: Moves or renames files or directories.
+cat <file>: Displays the contents of a file.
+head <file>: Shows the first few lines of a file.
+tail <file>: Displays the last few lines of a file.
+grep <pattern> <file>: Searches for a pattern in a file.
+chmod <permissions> <file>: Changes the permissions of a file or directory.
+chown <user> <file>: Changes the owner of a file or directory.
+chgrp <group> <file>: Changes the group ownership of a file or directory.
+sudo <command>: Runs a command with administrative privileges.
+apt-get install <package>: Installs a package using the APT package manager (Debian/Ubuntu).
+yum install <package>: Installs a package using the YUM package manager (RHEL/CentOS/Fedora).
+wget <URL>: Downloads a file from the web.
+ssh <user>@<host>: Connects to a remote server using SSH.
+tar <options> <file>: Archives and extracts files using tar.
+df -h: Displays disk space usage in a human-readable format.
+top: Shows system resource usage and running processes.
+ping <host>: Sends ICMP echo requests to a host to check connectivity.
+ifconfig: Displays network interface configuration information.

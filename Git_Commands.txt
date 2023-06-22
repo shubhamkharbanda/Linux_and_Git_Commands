@@ -1,0 +1,21 @@
+Important Git Commands:
+
+git init: Initializes a new Git repository in the current directory.
+git clone <repository>: Creates a copy of a remote repository on your local machine.
+git add <file>: Adds a file or changes to the staging area.
+git commit -m "<message>": Records the changes to the repository with a descriptive message.
+git status: Shows the status of the working directory and staging area.
+git push: Uploads local commits to a remote repository.
+git pull: Fetches and merges changes from a remote repository to the current branch.
+git branch: Lists all local branches in the repository.
+git checkout <branch>: Switches to a different branch.
+git merge <branch>: Merges changes from one branch into the current branch.
+git diff: Shows the differences between the working directory and the staging area.
+git log: Displays the commit history of the current branch.
+git remote add <name> <url>: Associates a remote repository with a name and URL.
+git remote -v: Lists all remote repositories associated with the current repository.
+git fetch: Retrieves the latest changes from a remote repository without merging them.
+git reset <file>: Removes a file from the staging area while keeping the changes.
+git revert <commit>: Reverts a commit by creating a new commit that undoes the changes.
+git stash: Temporarily saves changes that are not ready to be committed.
+git tag <tag>: Creates a new tag or label for a specific commit.
