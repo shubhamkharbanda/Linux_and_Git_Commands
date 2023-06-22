@@ -1,6 +1,6 @@
 Important linux commands:
 
-s: Lists files and directories in the current directory.
+ls: Lists files and directories in the current directory.
 cd <directory>: Changes the current directory.
 pwd: Prints the current working directory.
 mkdir <directory>: Creates a new directory.
